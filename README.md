@@ -34,9 +34,6 @@ repo is the front door that explains what each one does, how they relate, and wh
 | Project | What it is | Repository |
 |---|---|---|
 | **Agent Operations Manager (AOM)** | Self-hosted control plane for AI agents — tool governance, LLM gateway, memory, and oversight | [couchbase-agent-operations-manager](https://github.com/couchbaselabs/couchbase-agent-operations-manager) |
-| **AIDP Industries Demo** | Industry-vertical demos of the Couchbase AI Data Plane (AIDP) | [couchbase-aidp-industries-demo](https://github.com/couchbaselabs/couchbase-aidp-industries-demo) |
-| **Big Data Agent Demo** | Agents working over large-scale datasets in Couchbase | [couchbase-bigdata-agent-demo](https://github.com/couchbaselabs/couchbase-bigdata-agent-demo) |
-| **Agent Workforce Demo** | Multi-agent "workforce" patterns coordinated through Couchbase | [couchbase-agent-workforce-demo](https://github.com/couchbaselabs/couchbase-agent-workforce-demo) |
 | **Onboarding Agent** | Guided, AI-assisted migration from MongoDB, DynamoDB, Redis, Cassandra, Cosmos DB, or another Couchbase cluster into Couchbase | [couchbase-onboarding-agent](https://github.com/couchbaselabs/couchbase-onboarding-agent) |
 | **Onboarding Agent Demo Databases** | Pre-seeded source databases for exercising the Onboarding Agent end to end | [couchbase-onboarding-agent-demo-databases](https://github.com/couchbaselabs/couchbase-onboarding-agent-demo-databases) |
 | **Optimizer Agent** | Agent that analyzes and tunes Couchbase workloads | [couchbase-optimizer-agent](https://github.com/couchbaselabs/couchbase-optimizer-agent) |
