@@ -34,9 +34,9 @@ repo is the front door that explains what each one does, how they relate, and wh
 | Project | What it is | Repository |
 |---|---|---|
 | **Agent Operations Manager (AOM)** | Couchbase Agent Operations Manager (AOM) is a self-hosted control plane for AI agents, built on Couchbase Server Enterprise Edition that eases adoption of the Couchbase AI Data Plane. Migrating an agent's existing memory to Couchbase Agent Memory for Context Caching and LLM Caching is simplified, allowing existing and new agents to rapidly benefit | [couchbase-agent-operations-manager](https://github.com/couchbaselabs/couchbase-agent-operations-manager) |
-| **Onboarding Agent** | Guided, AI-assisted bi-directional replication from MongoDB, DynamoDB, Redis, Cassandra, Cosmos DB, or another Couchbase cluster into Couchbase | [couchbase-onboarding-agent](https://github.com/couchbaselabs/couchbase-onboarding-agent) |
+| **Onboarding Agent** | Couchbase Onboarding Agent is a guided, AI-assisted bi-directional replication from MongoDB, DynamoDB, Redis, Cassandra, Cosmos DB, or another Couchbase cluster into Couchbase | [couchbase-onboarding-agent](https://github.com/couchbaselabs/couchbase-onboarding-agent) |
 | **Onboarding Agent Demo Databases** | Pre-seeded source databases for exercising the Onboarding Agent end to end | [couchbase-onboarding-agent-demo-databases](https://github.com/couchbaselabs/couchbase-onboarding-agent-demo-databases) |
-| **Optimizer Agent** | AI agent with a dashboard UI that continuously analyzes Couchbase Enterprise and Couchbase Capella clusters, analyzes query and index optimization opportunities, and recommends optimizations. The agent runs real-time or from a support bundle, recommends optimized queries and index opportunities | [couchbase-optimizer-agent](https://github.com/couchbaselabs/couchbase-optimizer-agent) |
+| **Optimizer Agent** | Couchbase Optimizer Agent is an AI agent with a dashboard UI that continuously analyzes Couchbase Enterprise and Couchbase Capella clusters, analyzes query and index optimization opportunities, and recommends optimizations. The agent runs real-time or from a support bundle, recommends optimized queries and index opportunities | [couchbase-optimizer-agent](https://github.com/couchbaselabs/couchbase-optimizer-agent) |
 
 ### Agent Operations Manager (AOM)
 
