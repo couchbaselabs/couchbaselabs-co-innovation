@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/couchbase-labs-logo.png" alt="Couchbase Labs" width="420" />
+  <img width="472" height="108" alt="image" src="https://github.com/user-attachments/assets/d10945b3-2465-4128-82fc-b89e15746940" />
 </p>
 
 <h1 align="center">Couchbase Labs Co-Innovation</h1>
