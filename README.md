@@ -6,7 +6,7 @@
 
 <p align="center">
   A curated index of Couchbase Labs projects built with and for customers — agentic applications,
-  AI Data Plane demos, migration tooling, and operational control planes, all running on
+  AI Data Plane tooling, migration / onboarding applications, and operational control planes, all running on
   <strong>Couchbase Server Enterprise Edition</strong> or <strong>Couchbase Capella</strong>.
 </p>
 
