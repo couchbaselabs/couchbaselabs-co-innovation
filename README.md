@@ -33,10 +33,10 @@ repo is the front door that explains what each one does, how they relate, and wh
 
 | Project | What it is | Repository |
 |---|---|---|
-| **Agent Operations Manager (AOM)** | Self-hosted control plane for AI agents — tool governance, LLM gateway, memory, and oversight | [couchbase-agent-operations-manager](https://github.com/couchbaselabs/couchbase-agent-operations-manager) |
-| **Onboarding Agent** | Guided, AI-assisted migration from MongoDB, DynamoDB, Redis, Cassandra, Cosmos DB, or another Couchbase cluster into Couchbase | [couchbase-onboarding-agent](https://github.com/couchbaselabs/couchbase-onboarding-agent) |
+| **Agent Operations Manager (AOM)** | Couchbase Agent Operations Manager (AOM) is a self-hosted control plane for AI agents, built on Couchbase Server Enterprise Edition that eases adoption of the Couchbase AI Data Plane. Migrating an agent's existing memory to Couchbase Agent Memory for Context Caching and LLM Caching is simplified, allowing existing and new agents to rapidly benefit. | [couchbase-agent-operations-manager](https://github.com/couchbaselabs/couchbase-agent-operations-manager) |
+| **Onboarding Agent** | Guided, AI-assisted bi-directional replication from MongoDB, DynamoDB, Redis, Cassandra, Cosmos DB, or another Couchbase cluster into Couchbase | [couchbase-onboarding-agent](https://github.com/couchbaselabs/couchbase-onboarding-agent) |
 | **Onboarding Agent Demo Databases** | Pre-seeded source databases for exercising the Onboarding Agent end to end | [couchbase-onboarding-agent-demo-databases](https://github.com/couchbaselabs/couchbase-onboarding-agent-demo-databases) |
-| **Optimizer Agent** | Agent that analyzes and tunes Couchbase workloads | [couchbase-optimizer-agent](https://github.com/couchbaselabs/couchbase-optimizer-agent) |
+| **Optimizer Agent** | Agent that analyzes and tunes Couchbase Enterprise or Capella Queries and Indexes in a cluster | [couchbase-optimizer-agent](https://github.com/couchbaselabs/couchbase-optimizer-agent) |
 
 ### Agent Operations Manager (AOM)
 
