@@ -42,6 +42,8 @@ repo is the front door that explains what each one does, how they relate, and wh
 
 [`couchbase-agent-operations-manager`](https://github.com/couchbaselabs/couchbase-agent-operations-manager)
 
+<img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/de3b523f-0671-4c97-99d4-81dd3119e3de" />
+
 A self-hosted control plane that sits between AI agents and MCP tool servers. Agents authenticate to
 AOM, discover tools for a task, and invoke them; every invocation is re-authorized before it is proxied
 and every decision is written to an append-only audit log. AOM bundles the Couchbase AI Data Plane
