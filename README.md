@@ -92,39 +92,6 @@ without pointing it at a production system.
 An agent that inspects Couchbase workloads and recommends or applies optimizations — indexes, query
 shape, and cluster configuration — using the same AI Data Plane components the other projects build on.
 
-## How the pieces fit together
-
-```
-                  ┌───────────────────────────────────────────────┐
-                  │           Couchbase Agent Operations           │
-                  │             Manager (control plane)            │
-                  │  tool governance · LLM gateway · memory · audit │
-                  └──────────────┬────────────────┬───────────────┘
-                                 │                │
-            ┌────────────────────┤                ├────────────────────┐
-            ▼                    ▼                ▼                    ▼
-   Agent Workforce        Big Data Agent     Optimizer Agent    AIDP Industries
-        Demo                   Demo                                  Demo
-            │                    │                │                    │
-            └────────────────────┴───────┬────────┴────────────────────┘
-                                         ▼
-                    ┌──────────────────────────────────────────┐
-                    │  Couchbase Server EE / Capella            │
-                    │  KV · Query · Vector · Analytics · XDCR   │
-                    └──────────────────────────────────────────┘
-                                         ▲
-                                         │  migrate in
-                    ┌────────────────────┴─────────────────────┐
-                    │  Onboarding Agent  (+ Demo Databases)     │
-                    │  MongoDB · DynamoDB · Redis · Cassandra · │
-                    │  Cosmos DB · Couchbase CE/EE/Capella      │
-                    └──────────────────────────────────────────┘
-```
-
-- **Onboarding Agent** gets your data into Couchbase.
-- **Agent Operations Manager** governs the agents that run on top of it.
-- The **demos** and the **Optimizer Agent** are example agents that plug into that stack.
-
 ## Getting started
 
 Every project ships with Docker Compose and, where applicable, a Helm chart. The general pattern is:
