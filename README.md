@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="#projects">Projects</a> •
-  <a href="#how-the-pieces-fit-together">Architecture</a> •
   <a href="#getting-started">Getting started</a> •
   <a href="#contributing">Contributing</a>
 </p>
