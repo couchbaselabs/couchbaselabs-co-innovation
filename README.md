@@ -56,27 +56,6 @@ agents on top of it.
 - **Developer tools** — Python SDK (`aom_sdk`), an MCP bridge, and integration skills for Claude, ChatGPT, and Gemini
 - **Stack** — Couchbase Server EE (vector search), FastAPI backend, React/TypeScript/Vite dashboard, Docker Compose, Helm chart for Kubernetes/K3s
 
-### AIDP Industries Demo
-
-[`couchbase-aidp-industries-demo`](https://github.com/couchbaselabs/couchbase-aidp-industries-demo)
-
-Industry-specific demonstrations of the Couchbase AI Data Plane — showing how vector search, agent
-memory, and the agent catalog come together in vertical scenarios.
-
-### Big Data Agent Demo
-
-[`couchbase-bigdata-agent-demo`](https://github.com/couchbaselabs/couchbase-bigdata-agent-demo)
-
-Demonstrates agents reasoning over and acting on large datasets stored in Couchbase, combining the
-Query, Analytics, and Vector services with an agent runtime.
-
-### Agent Workforce Demo
-
-[`couchbase-agent-workforce-demo`](https://github.com/couchbaselabs/couchbase-agent-workforce-demo)
-
-Shows multiple specialized agents collaborating as a "workforce," with Couchbase providing shared
-state, memory, and coordination between them.
-
 ### Onboarding Agent
 
 [`couchbase-onboarding-agent`](https://github.com/couchbaselabs/couchbase-onboarding-agent)
