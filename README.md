@@ -87,6 +87,8 @@ without pointing it at a production system.
 
 [`couchbase-optimizer-agent`](https://github.com/couchbaselabs/couchbase-optimizer-agent)
 
+<img width="3456" height="1924" alt="image" src="https://github.com/user-attachments/assets/911c208c-9fcd-45cb-a473-1ef10add7eb4" />
+
 An agent that inspects Couchbase workloads and recommends or applies optimizations — indexes, query
 shape, and cluster configuration — using the same AI Data Plane components the other projects build on.
 
