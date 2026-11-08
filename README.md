@@ -62,6 +62,8 @@ agents on top of it.
 
 [`couchbase-onboarding-agent`](https://github.com/couchbaselabs/couchbase-onboarding-agent)
 
+<img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/d339dd17-0f4e-4949-b330-69fdb7168bcc" />
+
 Migrates **MongoDB**, **Amazon DynamoDB**, **Redis**, **Apache Cassandra**, **Azure Cosmos DB**, or
 another **Couchbase** cluster (CE, EE, or Capella) into Couchbase Server or Capella with a guided wizard,
 a live dashboard, and an AI assistant that runs on a local model.
